@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "St Mary's Learn & Play",
+  "short_name": "St Mary's",
+  "description": "Homework and learning games for St Mary's pupils and staff.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1470",
+  "theme_color": "#0b1470",
+  "lang": "en-GB",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
